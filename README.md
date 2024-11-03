@@ -1,5 +1,5 @@
 # Black Friday Sale Analysis
-Black Friday là dịp mua sắm lớn nhất trong năm với các chương trình giảm giá hấp dẫn, thu hút đông đảo người tiêu dùng. Việc phân tích dữ liệu từ Black Friday giúp hiểu rõ hơn về hành vi và xu hướng mua sắm, qua đó xác định các nhóm khách hàng tiềm năng và sản phẩm bán chạy. Dataset Black Friday Sale này chứa các thông tin về giới tính, độ tuổi, nghề nghiệp và sản phẩm, cung cấp nền tảng để khám phá những yếu tố tác động đến quyết định mua hàng và hỗ trợ doanh nghiệp tối ưu hóa chiến lược kinh doanh.
+Black Friday là dịp mua sắm lớn nhất trong năm với các chương trình giảm giá hấp dẫn, thu hút đông đảo người tiêu dùng. Việc phân tích dữ liệu từ Black Friday giúp hiểu rõ hơn về hành vi và xu hướng mua sắm, qua đó xác định các nhóm khách hàng tiềm năng và sản phẩm bán chạy. Dataset Black Friday Sale này chứa các thông tin về giới tính, độ tuổi, trình trạng hôn nhân và sản phẩm, cung cấp nền tảng để khám phá những yếu tố tác động đến quyết định mua hàng và hỗ trợ doanh nghiệp tối ưu hóa chiến lược kinh doanh.
 
 Nguồn dữ liệu: https://www.kaggle.com/datasets/rajeshrampure/black-friday-sale
 
