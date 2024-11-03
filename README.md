@@ -81,6 +81,9 @@ Các điểm dữ liệu phân tán cho thấy có sự khác biệt trong hành
 
 ![image](https://github.com/user-attachments/assets/45d87a95-4afb-4c4e-b92e-1b4e01992482)
 
+
+Bảng điều khiển bên dưới thể hiện kết quả bán hàng trong dịp lễ Black Friday, với các chỉ số về Doanh thu bán hàng, số lượng người mua, số lượng sản phẩm bán ra, giá trị trung bình của các đơn hàng, top các sản phẩm có lượt bán cao nhất và doanh thu thu về cao nhất, mức độ tập trung của giá trị đơn và số lượng mua của khách hàng. Kèm theo là các bộ lọc để dễ dàng theo dõi kết quả bán hàng.
+
 ![image](https://github.com/user-attachments/assets/c08c7b99-da2b-493c-9d6b-d4742e0ba95a)
 
 
