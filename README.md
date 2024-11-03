@@ -26,7 +26,7 @@ Chi tiết từng cột
 
 ![image](https://github.com/user-attachments/assets/92f1e460-fbe5-4096-b91c-dd4a9dda5a3a)
 
-Vì dự án này tập trung phân tích nhân khẩu học tác động đến hành vi mua sắm và báo cáo kết quả bán hàng nên mình đã tạo ra 2 bảng: Bảng User (chứa thông tin của khách hàng) và bảng Total_Purchase (chứa thông tin của giá trị đơn hàng và số lượng mua của khách). Cả 2 bảng này được tách ra từ bảng Train của tập dữ liệu
+Vì dự án này tập trung phân tích nhân khẩu học tác động đến hành vi mua sắm và báo cáo kết quả bán hàng nên mình đã tạo ra 2 bảng: Bảng User (chứa thông tin về các yếu tô nhân khẩu học của từng khách hàng khách hàng) và bảng Total_Purchase (chứa thông tin của giá trị đơn hàng và số lượng mua của khách đã mua trong dịp lễ). Cả 2 bảng này được tách ra từ bảng Train của tập dữ liệu
 
 ![image](https://github.com/user-attachments/assets/1691f84e-7512-41cc-a947-743ca31375a1)
 
