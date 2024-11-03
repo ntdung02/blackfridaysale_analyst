@@ -79,6 +79,12 @@ Các điểm dữ liệu phân tán cho thấy có sự khác biệt trong hành
 Điều này chỉ ra rằng có nhiều phân khúc khách hàng khác nhau với nhu cầu và khả năng chi tiêu khác nhau, từ những người chỉ mua sản phẩm thiết yếu hoặc có nhu cầu nhỏ đến những khách hàng mua sắm với mục đích kinh doanh hoặc bán lại.
 
 
+![image](https://github.com/user-attachments/assets/45d87a95-4afb-4c4e-b92e-1b4e01992482)
+
+![image](https://github.com/user-attachments/assets/c08c7b99-da2b-493c-9d6b-d4742e0ba95a)
+
+
+
 
 
 
